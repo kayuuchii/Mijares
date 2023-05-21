@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - projectile
+  - Ground
+  - Box
+  - wall
+  - SceneManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Front
+  - Water
+  - UI
+  - Middle
+  - Back
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Middle
+    uniqueID: 2314085453
+    locked: 0
+  - name: Front
+    uniqueID: 3915579143
+    locked: 0
